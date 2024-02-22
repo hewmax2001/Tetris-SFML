@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IbV6ZrrwlFdYcjLWTcH8K/lHdssJdiE/pNy/neOre9Ynn9Mu0GqAR+eHUo3wur9sQyL1IN3Mmd1fvAFPiFDm8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kauff\\source\\repos\\Tetris\\Tetris\\Tetris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kauff\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\kauff\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\kauff\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\kauff\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\kauff\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\kauff\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
